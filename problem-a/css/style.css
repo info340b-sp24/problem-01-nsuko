@@ -1,0 +1,35 @@
+h1 {
+    font-size: 30px;
+    color: white;
+    background-color: red;
+}
+
+p {
+    color: white;
+    line-height: 1.5;
+}
+
+body {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+ul {
+    color: white;
+}
+
+img {
+    max-height: 400px;
+}
+
+.centered {
+    text-align: center;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.highlighted {
+    color: gold;
+}
